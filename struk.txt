@@ -1,0 +1,8 @@
+-------------------------------------
+|     STRUK PENGAMBILAN MOTOR        |-------------------------------------
+ NAMA CUSTOMER        = q
+ ALAMAT               = s
+ JENIS MOTOR          = d
+ NO POLISI            = ad 1212
+ NO HP                = 12565
+ NO ANTRIAN PENITIPAN =1
